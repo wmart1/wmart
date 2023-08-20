@@ -1,0 +1,11 @@
+version: "3"
+
+services:
+  web:
+    depends_on:
+      - postgres
+      - redis
+  postgres:
+    image: kartoza/postgis:12.0
+  redis:
+    image: redis:5

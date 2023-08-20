@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "569247468314",
+    "firebase_url": "https://wmart123-d76d2-default-rtdb.firebaseio.com",
+    "project_id": "wmart123-d76d2",
+    "storage_bucket": "wmart123-d76d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569247468314:android:8d45bd2c7090d4ec237aa3",
+        "android_client_info": {
+          "package_name": "com.wmart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "569247468314-uk1bdko0m9dkadsl1cihdst9csu9cajg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnhl6M8AdZJR20xQANh5YbLSyZwDJt9KQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "569247468314-uk1bdko0m9dkadsl1cihdst9csu9cajg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
